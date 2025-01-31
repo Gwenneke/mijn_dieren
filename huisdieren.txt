@@ -2,4 +2,6 @@ izzy
 pinky 
 Cloe
 Joske
+kiki
+dollar
 
